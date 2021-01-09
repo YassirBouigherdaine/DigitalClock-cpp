@@ -9,13 +9,16 @@
 const int screen_height = 12;
 const int screen_width = 44;
 
+std::string months[] = { "JAN", "FEB", "MAR","APR","MAY","JUN","JUL",
+                            "AUG","SEP","OCT","NOV","DEC" };
+
 char zero[5][3] = { 178,178,178,
                   178,' ',178,
                   178,' ',178,
                   178,' ',178,
                   178,178,178 };
 
-char one[5][3] = { ' ',178,178,
+char one[5][3] = { ' ',' ',178,
                   ' ',' ',178,
                   ' ',' ',178,
                   ' ',' ',178,
@@ -27,7 +30,7 @@ char two[5][3] = { 178,178,178,
                   178,' ',' ',
                   178,178,178 };
 
-char tree[5][3] = { 178,178,178,
+char three[5][3] = { 178,178,178,
                   ' ',' ',178,
                   ' ',178,178,
                   ' ',' ',178,
@@ -45,7 +48,7 @@ char five[5][3] = { 178,178,178,
                   ' ',' ',178,
                   178,178,178 };
 
-char sex[5][3] = { 178,178,178,
+char six[5][3] = { 178,178,178,
                   178,' ',' ',
                   178,178,178,
                   178,' ',178,
@@ -63,7 +66,7 @@ char eight[5][3] = { 178,178,178,
                   178,' ',178,
                   178,178,178 };
 
-char nein[5][3] = { 178,178,178,
+char nine[5][3] = { 178,178,178,
                   178,' ',178,
                   178,178,178,
                   ' ',' ',178,
@@ -122,7 +125,7 @@ void printNum(int num, int x, int y)
                 break;
 
             case 3: gotoxy(x + j, y + i);
-                std::cout << tree[i][j];
+                std::cout << three[i][j];
                 break;
 
             case 4: gotoxy(x + j, y + i);
@@ -134,7 +137,7 @@ void printNum(int num, int x, int y)
                 break;
 
             case 6: gotoxy(x + j, y + i);
-                std::cout << sex[i][j];
+                std::cout << six[i][j];
                 break;
 
             case 7: gotoxy(x + j, y + i);
@@ -146,7 +149,7 @@ void printNum(int num, int x, int y)
                 break;
 
             case 9: gotoxy(x + j, y + i);
-                std::cout << nein[i][j];
+                std::cout << nine[i][j];
                 break;
 
             case 10: gotoxy(x + j, y + i);
@@ -201,7 +204,7 @@ void displayClock()
     int s = lt.tm_sec;
 
     int year = 1900 + lt.tm_year;
-    int mon = 1 + lt.tm_mon;
+    int mon = lt.tm_mon;
     int day = lt.tm_mday;
 
 
@@ -216,11 +219,11 @@ void displayClock()
         // print date
 
         gotoxy(screen_width / 2, 2);
-        std::cout << day << "-" << mon << "-" << year;
+        std::cout << day << " " << months[mon] << " " << year;
 
         // print hour
 
-        if (h > 10)
+        if (h >= 10)
         {
             printNum(h / 10, numX, numY);
             printNum(h % 10, numX += 4, numY);
@@ -233,9 +236,9 @@ void displayClock()
 
         printNum(10, numX += 4, numY);
 
-        // print minuts
+        // print minutes
 
-        if (m > 10)
+        if (m >= 10)
         {
             printNum(m / 10, numX += 4, numY);
             printNum(m % 10, numX += 4, numY);
@@ -250,7 +253,7 @@ void displayClock()
 
         // print seconds
 
-        if (s > 10)
+        if (s >= 10)
         {
             printNum(s / 10, numX += 4, numY);
             printNum(s % 10, numX += 4, numY);
@@ -263,22 +266,37 @@ void displayClock()
 
         // updating time
 
-        if (s >= 60)
+        if (s >= 59)
         {
             s = 0;
             m++;
         }
-        if (m >= 60)
+
+        if (m >= 59)
         {
             m = 0;
             h++;
         }
-        if (h > 23)
+
+        if (h >= 23)
         {
             s = 0;
             m = 0;
             h = 0;
         }
+
+        if (h < 12)
+        {
+            gotoxy(screen_width - 3, screen_height - 1);
+            std::cout << "AM";
+        }
+        else
+        {
+            gotoxy(screen_width - 3, screen_height - 1);
+            std::cout << "PM";
+        }
+
+        // to stop the watch
 
         if (_kbhit())
         {

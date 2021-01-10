@@ -9,8 +9,13 @@
 const int screen_height = 12;
 const int screen_width = 44;
 
+bool quit = false;
+
 std::string months[] = { "JAN", "FEB", "MAR","APR","MAY","JUN","JUL",
                             "AUG","SEP","OCT","NOV","DEC" };
+
+int alarm_h = -1, alarm_m;
+
 
 char zero[5][3] = { 178,178,178,
                   178,' ',178,
@@ -181,8 +186,24 @@ void drawScreen()
 }
 
 
+void setAlarm()
+{
+    system("cls");
+
+    std::cout << "\n\n\t\tALARM\n";
+    std::cout << "\t---------------------\n";
+    std::cout << "\n\t Enter hour: ";
+    std::cin >> alarm_h;
+    std::cout << "\n\t Enter minutes: ";
+    std::cin >> alarm_m;
+
+}
+
+
 void displayClock()
 {
+start:
+
     setCursor(0, 0);
 
     srand((unsigned)time(NULL));
@@ -218,8 +239,13 @@ void displayClock()
 
         // print date
 
-        gotoxy(screen_width / 2, 2);
+        gotoxy((screen_width / 2)-2, 2);
         std::cout << day << " " << months[mon] << " " << year;
+
+        // alarm option
+
+        gotoxy(8, screen_height - 1);
+        std::cout << "[a] Alarm";
 
         // print hour
 
@@ -272,13 +298,13 @@ void displayClock()
             m++;
         }
 
-        if (m >= 59)
+        if (m > 59)
         {
             m = 0;
             h++;
         }
 
-        if (h >= 23)
+        if (h > 23)
         {
             s = 0;
             m = 0;
@@ -296,19 +322,34 @@ void displayClock()
             std::cout << "PM";
         }
 
-        // to stop the watch
+        // to set alarm
 
         if (_kbhit())
         {
             char k = _getch();
 
-            if (k == 32)
+            if (k == 'a')
             {
-                break;
+                setAlarm();
+
+                goto start;
+            }
+
+            if (k == 'q')
+            {
+                quit = true;
             }
         }
 
-        Sleep(950);
+        if (alarm_h == h && alarm_m == m)
+        {
+            gotoxy(8, 2);
+            std::cout << "\xCF ALARM";
+        }
+
+        Sleep(800);
         s++;
     }
+
+    
 }

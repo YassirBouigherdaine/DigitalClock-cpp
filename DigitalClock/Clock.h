@@ -9,8 +9,13 @@
 const int screen_height = 12;
 const int screen_width = 44;
 
+int h, m, s, numX, numY;
+
 std::string months[] = { "JAN", "FEB", "MAR","APR","MAY","JUN","JUL",
                             "AUG","SEP","OCT","NOV","DEC" };
+
+int alarm_h = -1, alarm_m;
+
 
 char zero[5][3] = { 178,178,178,
                   178,' ',178,
@@ -163,7 +168,6 @@ void printNum(int num, int x, int y)
 
 void drawScreen()
 {
-
     for (size_t i = 0; i <= screen_height; i++)
     {
         for (size_t j = 6; j <= screen_width; j++)
@@ -181,8 +185,159 @@ void drawScreen()
 }
 
 
+void setAlarm()
+{
+    system("cls");
+
+    std::cout << "\n\n\t\tALARM\n";
+    std::cout << "\t---------------------\n";
+    std::cout << "\n\t Enter hour: ";
+    std::cin >> alarm_h;
+    std::cout << "\n\t Enter minutes: ";
+    std::cin >> alarm_m;
+}
+
+
+void printTime()
+{
+    drawScreen();
+
+    // print hour
+
+    if (h >= 10)
+    {
+        printNum(h / 10, numX, numY);
+        printNum(h % 10, numX += 4, numY);
+    }
+    else
+    {
+        printNum(0, numX, numY);
+        printNum(h, numX += 4, numY);
+    }
+
+    printNum(10, numX += 4, numY);
+
+    // print minutes
+
+    if (m >= 10)
+    {
+        printNum(m / 10, numX += 4, numY);
+        printNum(m % 10, numX += 4, numY);
+    }
+    else
+    {
+        printNum(0, numX += 4, numY);
+        printNum(m, numX += 4, numY);
+    }
+
+    printNum(10, numX += 4, numY);
+
+    // print seconds
+
+    if (s >= 10)
+    {
+        printNum(s / 10, numX += 4, numY);
+        printNum(s % 10, numX += 4, numY);
+    }
+    else
+    {
+        printNum(0, numX += 4, numY);
+        printNum(s, numX += 4, numY);
+    }
+
+    // updating time
+
+    if (s >= 59)
+    {
+        s = 0;
+        m++;
+    }
+
+    if (m > 59)
+    {
+        m = 0;
+        h++;
+    }
+
+    if (h > 23)
+    {
+        s = 0;
+        m = 0;
+        h = 0;
+    }   
+}
+
+
+void options()
+{
+    char op;
+   
+    do
+    {
+        system("cls");
+
+        gotoxy(screen_width / 2, 2);
+        std::cout << "\n\n\t\tOPTIONS\n";
+        std::cout << "\t---------------------\n";
+        std::cout << "\n\t [a] To set alarm";
+        std::cout << "\n\t [s] To set the stop watch";
+        std::cout << "\n\t [r] To return";
+        std::cout << "\n\t Enter your choice :";
+        std::cin >> op;
+
+        // to set alarm
+
+        if (op == 'a')
+        {
+            setAlarm();
+            break;
+        }
+
+        // to set the stop watch
+
+        if (op == 's')
+        {
+            h = m = s = 0;
+
+            while (!_kbhit())
+            {
+                system("cls");
+
+                numX = 10, numY = 5;
+
+                gotoxy((screen_width / 2) - 2, 2);
+                std::cout << "STOP WATCH";
+                gotoxy((screen_width / 2) - 6, screen_height - 1);
+                std::cout << "Press any key to stop";
+
+                printTime();
+
+                Sleep(900);
+                s++;
+
+                if (_kbhit())
+                {
+                    gotoxy((screen_width / 2) - 6, screen_height - 1);
+                    std::cout << "                     ";
+                    gotoxy((screen_width / 2) - 6, screen_height - 1);
+                    std::cout << "Stop watch stoped";
+                    Sleep(3000);
+                    break;
+                }
+            }
+
+            break;
+        }
+
+    } while (op != 'r');
+   
+}
+    
+
 void displayClock()
 {
+start:
+
     setCursor(0, 0);
 
     srand((unsigned)time(NULL));
@@ -199,90 +354,42 @@ void displayClock()
 
     asctime_s(dt, 26, &lt);
 
-    int h = lt.tm_hour;
-    int m = lt.tm_min;
-    int s = lt.tm_sec;
+    h = lt.tm_hour;
+    m = lt.tm_min;
+    s = lt.tm_sec;
 
     int year = 1900 + lt.tm_year;
     int mon = lt.tm_mon;
     int day = lt.tm_mday;
 
-
     while (true)
     {
         system("cls");
 
-        drawScreen();
-
-        int numX = 10, numY = 5;
+        numX = 10, numY = 5;
 
         // print date
 
-        gotoxy(screen_width / 2, 2);
+        gotoxy((screen_width / 2)-2, 2);
         std::cout << day << " " << months[mon] << " " << year;
 
-        // print hour
+        printTime();
 
-        if (h >= 10)
+        // options
+
+        gotoxy(8, screen_height - 1);
+        std::cout << "[o] options";
+
+        if (_kbhit())
         {
-            printNum(h / 10, numX, numY);
-            printNum(h % 10, numX += 4, numY);
-        }
-        else
-        {
-            printNum(0, numX, numY);
-            printNum(h, numX += 4, numY);
-        }
+            char k = _getch();
 
-        printNum(10, numX += 4, numY);
+            if (k == 'o')
+            {
+                options();
 
-        // print minutes
-
-        if (m >= 10)
-        {
-            printNum(m / 10, numX += 4, numY);
-            printNum(m % 10, numX += 4, numY);
-        }
-        else
-        {
-            printNum(0, numX += 4, numY);
-            printNum(m, numX += 4, numY);
-        }
-
-        printNum(10, numX += 4, numY);
-
-        // print seconds
-
-        if (s >= 10)
-        {
-            printNum(s / 10, numX += 4, numY);
-            printNum(s % 10, numX += 4, numY);
-        }
-        else
-        {
-            printNum(0, numX += 4, numY);
-            printNum(s, numX += 4, numY);
-        }
-
-        // updating time
-
-        if (s >= 59)
-        {
-            s = 0;
-            m++;
-        }
-
-        if (m >= 59)
-        {
-            m = 0;
-            h++;
-        }
-
-        if (h >= 23)
-        {
-            s = 0;
-            m = 0;
-            h = 0;
+                goto start;
+            }
         }
 
         if (h < 12)
@@ -296,19 +403,15 @@ void displayClock()
             std::cout << "PM";
         }
 
-        // to stop the watch
-
-        if (_kbhit())
+        if (alarm_h == h && alarm_m == m)
         {
-            char k = _getch();
-
-            if (k == 32)
-            {
-                break;
-            }
+            gotoxy(8, 2);
+            std::cout << "\xCF ALARM";
+            gotoxy(8, screen_height - 1);
+            std::cout << "           ";
         }
 
-        Sleep(950);
+        Sleep(800);
         s++;
     }
 }

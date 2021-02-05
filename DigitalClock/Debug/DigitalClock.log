@@ -1,210 +1,210 @@
-﻿  main.cpp
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(20,21): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(20,21): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(20,25): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(20,25): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(20,29): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(20,29): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(21,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(21,19): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(21,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(21,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(22,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(22,19): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(22,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(22,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(23,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(23,19): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(23,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(23,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(24,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(24,19): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(24,23): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(24,23): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(24,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(24,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(26,28): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(26,28): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(27,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(27,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(28,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(28,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(29,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(29,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(30,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(30,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(32,20): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(32,20): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(32,24): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(32,24): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(32,28): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(32,28): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(33,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(33,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(34,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(34,19): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(34,23): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(34,23): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(34,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(34,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(35,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(35,19): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(36,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(36,19): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(36,23): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(36,23): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(36,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(36,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(38,22): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(38,22): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(38,26): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(38,26): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(38,30): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(38,30): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(39,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(39,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(40,23): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(40,23): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(40,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(40,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(41,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(41,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(42,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(42,19): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(42,23): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(42,23): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(42,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(42,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(44,21): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(44,21): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(44,29): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(44,29): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(45,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(45,19): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(45,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(45,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(46,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(46,19): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(46,23): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(46,23): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(46,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(46,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(47,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(47,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(48,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(48,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(50,21): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(50,21): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(50,25): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(50,25): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(50,29): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(50,29): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(51,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(51,19): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(52,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(52,19): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(52,23): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(52,23): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(52,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(52,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(53,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(53,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(54,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(54,19): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(54,23): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(54,23): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(54,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(54,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(56,20): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(56,20): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(56,24): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(56,24): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(56,28): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(56,28): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(57,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(57,19): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(58,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(58,19): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(58,23): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(58,23): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(58,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(58,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(59,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(59,19): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(59,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(59,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(60,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(60,19): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(60,23): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(60,23): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(60,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(60,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(62,22): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(62,22): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(62,26): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(62,26): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(62,30): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(62,30): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(63,30): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(63,30): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(64,30): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(64,30): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(65,30): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(65,30): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(66,30): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(66,30): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(68,22): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(68,22): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(68,26): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(68,26): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(68,30): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(68,30): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(69,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(69,19): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(69,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(69,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(70,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(70,19): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(70,23): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(70,23): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(70,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(70,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(71,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(71,19): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(71,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(71,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(72,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(72,19): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(72,23): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(72,23): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(72,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(72,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(74,21): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(74,21): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(74,25): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(74,25): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(74,29): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(74,29): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(75,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(75,19): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(75,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(75,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(76,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(76,19): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(76,23): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(76,23): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(76,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(76,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(77,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(77,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(78,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(78,19): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(78,23): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(78,23): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(78,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(78,27): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(81,26): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(81,26): warning C4309: 'initialisation' : troncation de valeur de constante
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(83,26): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
-C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.h(83,26): warning C4309: 'initialisation' : troncation de valeur de constante
+﻿  Clock.cpp
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(15,21): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(15,21): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(15,25): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(15,25): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(15,29): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(15,29): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(16,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(16,19): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(16,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(16,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(17,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(17,19): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(17,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(17,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(18,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(18,19): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(18,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(18,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(19,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(19,19): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(19,23): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(19,23): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(19,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(19,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(21,28): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(21,28): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(22,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(22,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(23,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(23,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(24,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(24,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(25,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(25,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(27,20): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(27,20): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(27,24): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(27,24): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(27,28): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(27,28): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(28,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(28,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(29,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(29,19): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(29,23): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(29,23): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(29,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(29,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(30,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(30,19): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(31,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(31,19): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(31,23): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(31,23): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(31,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(31,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(33,22): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(33,22): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(33,26): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(33,26): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(33,30): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(33,30): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(34,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(34,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(35,23): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(35,23): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(35,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(35,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(36,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(36,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(37,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(37,19): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(37,23): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(37,23): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(37,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(37,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(39,21): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(39,21): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(39,29): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(39,29): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(40,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(40,19): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(40,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(40,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(41,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(41,19): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(41,23): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(41,23): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(41,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(41,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(42,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(42,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(43,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(43,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(45,21): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(45,21): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(45,25): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(45,25): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(45,29): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(45,29): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(46,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(46,19): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(47,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(47,19): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(47,23): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(47,23): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(47,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(47,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(48,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(48,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(49,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(49,19): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(49,23): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(49,23): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(49,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(49,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(51,20): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(51,20): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(51,24): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(51,24): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(51,28): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(51,28): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(52,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(52,19): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(53,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(53,19): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(53,23): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(53,23): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(53,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(53,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(54,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(54,19): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(54,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(54,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(55,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(55,19): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(55,23): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(55,23): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(55,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(55,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(57,22): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(57,22): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(57,26): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(57,26): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(57,30): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(57,30): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(58,30): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(58,30): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(59,30): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(59,30): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(60,30): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(60,30): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(61,30): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(61,30): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(63,22): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(63,22): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(63,26): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(63,26): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(63,30): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(63,30): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(64,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(64,19): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(64,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(64,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(65,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(65,19): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(65,23): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(65,23): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(65,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(65,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(66,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(66,19): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(66,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(66,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(67,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(67,19): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(67,23): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(67,23): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(67,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(67,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(69,21): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(69,21): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(69,25): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(69,25): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(69,29): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(69,29): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(70,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(70,19): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(70,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(70,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(71,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(71,19): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(71,23): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(71,23): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(71,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(71,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(72,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(72,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(73,19): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(73,19): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(73,23): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(73,23): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(73,27): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(73,27): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(76,26): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(76,26): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(78,26): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+C:\Users\asus\source\repos\DigitalClock\DigitalClock\Clock.cpp(78,26): warning C4309: 'initialisation' : troncation de valeur de constante
   DigitalClock.vcxproj -> C:\Users\asus\source\repos\DigitalClock\Debug\DigitalClock.exe
